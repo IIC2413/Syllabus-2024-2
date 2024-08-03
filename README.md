@@ -35,11 +35,11 @@ Christian Alvarez   | 2       | [cal@uc.cl]
 
 Nombre           | Rol                 | Email
 ---------------- |-------------------- | ----------------
-     | Bienestar | []
 Lucas Fernández  | Coordinador General            | [lucas.fernndez@uc.cl]
-Vicente San Martín  | SubCoordinador Cátedra             | [@uc.cl]
-Martina Molina  | SubCoordinadora Proyecto            | [@uc.cl]
-Martin Andrighetti  | Administrador de Servidor            | [@uc.cl]
+Vicente San Martín  | SubCoordinador Cátedra             | [vjsm@uc.cl]
+Martina Molina  | SubCoordinadora Proyecto            | [martina.molina@uc.cl]
+Martin Andrighetti  | Administrador de Servidor            | [martin.andrighetti@uc.cl]
+  <!-- a   | Bienestar | [] -->
 
 #### Ayudantes
 Nombre           | Email
@@ -50,7 +50,9 @@ Nombre           | Email
 [cal@uc.cl]: mailto:@uc.cl
 
 [lucas.fernndez@uc.cl]:mailto:lucas.fernndez@uc.cl
-
+[martina.molina@uc.cl]:mailto:martina.molina@uc.cl
+[vjsm@uc.cl]:mailto:vjsm@uc.cl
+[martin.andrighetti@uc.cl]:mailto:martin.andrighetti@uc.cl
 
 ---
 
@@ -90,12 +92,8 @@ Receso |                                                        |               
 
 Fecha                  | Evaluación
 -----------------------|------------
-***1* - ** - 2024** | Taller Modelo E/R 
 ***1* - ** - 2024** | I1
-***1* - ** - 2024** | Taller Formas Normales 
-***1* - ** - 2024** | Taller  Índices 
 ***1* - ** - 2024** | I2
-***1* - ** - 2024** | Taller MongoDB 
 ***1* - ** - 2024** | Examen
 
 
@@ -103,6 +101,8 @@ Fecha                  | Evaluación
 
 Fecha                  | Evaluación
 -----------------------|------------
+***1* - ** - 2024** | Enunciado P0
+***1* - ** - 2024** | Entrega P0
 ***1* - ** - 2024** | Enunciado P1
 ***1* - ** - 2024** | Entrega P1
 ***1* - ** - 2024** | Enunciado P2
