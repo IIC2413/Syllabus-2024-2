@@ -26,10 +26,8 @@
 
 Nombre              | Sección | Email
 ------------------- | ------- | ---------------------
-Nicolas Alvarado    | 1       | [nfalvarado@mat.uc.cl]
-Ariel Reyes         | 2       | [adreyes@uc.cl]
-Christian Alvarez   | 3       | [cal@uc.cl]
-Eduardo Bustos      | 4       | [eb@uc.cl]
+Eduardo Bustos      | 1       | [eb@uc.cl]
+Christian Alvarez   | 2       | [cal@uc.cl]
 
 ### Cuerpo de ayudantes
 
@@ -37,46 +35,20 @@ Eduardo Bustos      | 4       | [eb@uc.cl]
 
 Nombre           | Rol                 | Email
 ---------------- |-------------------- | ----------------
-Josefa Parra     | Bienestar Sec 1 y 2 | [josefa.parra@uc.cl]
-Antonia González | Bienestar Sec 3 y 4 | [apgonzalez6@uc.cl]
-Lucas Fernández  | Cátedra             | [lucas.fernndez@uc.cl]
-Francisca Ancic  | Proyecto            | [francisca.ancic@uc.cl]
+     | Bienestar | []
+Lucas Fernández  | Coordinador General            | [lucas.fernndez@uc.cl]
+Vicente San Martín  | SubCoordinador Cátedra             | [@uc.cl]
+Martina Molina  | SubCoordinadora Proyecto            | [@uc.cl]
+Martin Andrighetti  | Administrador de Servidor            | [@uc.cl]
 
 #### Ayudantes
 Nombre           | Email
 ---------------- | ----------------
-Amelia González  | agonzlen@uc.cl
-Benjamín Águila | benjaaguilaruiz@uc.cl
-Camila Carrasco | cicarrasco5@uc.cl
-Consuelo Inostroza | consuelo.inostroza@uc.cl
-Cristóbal Cuneo | cristobal.cuneo@uc.cl
-Cristóbal Contreras | cristobal.contreras@uc.cl
-Daniela Torrent | daniela.torrent@uc.cl
-Diego Milla | diego.milla@uc.cl
-Felipe Valderrama | felipe.valderrama@uc.cl
-Ignacio Sufan | ignacio.sufan@uc.cl
-Martina Molina | martina.molina@uc.cl
-Mateo Andrade | mateo.andrade@uc.cl
-Monserrat Díaz | mdb@uc.cl
-Nicole Larenas | nlarenasb@uc.cl
-Raimundo Escalona | rjescalona@uc.cl
-Ricardo Oviedo | ricardo.oviedo@uc.cl
-Tomás Jackson  | tjacksm@uc.cl
-Vicente Pareja | vicente.pareja@uc.cl
-Vicente Correa | vicente.correa@uc.cl
-Vicente San Martín | vjsm@uc.cl
+  | 
 
-
-
-[nfalvarado@mat.uc.cl]: mailto:nfalvarado@mat.uc.cl
-[adreyes@uc.cl]: mailto:adreyes@uc.cl
-[cal@uc.cl]: mailto:@uc.cl
 [eb@uc.cl]: mailto:eb@uc.cl
+[cal@uc.cl]: mailto:@uc.cl
 
-[josefa.parra@uc.cl]: mailto:josefa.parra@uc.cl
-[apgonzalez6@uc.cl]: mailto:apgonzalez6@uc.cl
-
-[francisca.ancic@uc.cl]: mailto:francisca.ancic@uc.cl
 [lucas.fernndez@uc.cl]:mailto:lucas.fernndez@uc.cl
 
 
@@ -118,25 +90,25 @@ Receso |                                                        |               
 
 Fecha                  | Evaluación
 -----------------------|------------
-***27* - *03* - 2024** | Taller Modelo E/R 
-***10* - *04* - 2024** | I1
-***24* - *04* - 2024** | Taller Formas Normales 
-***22* - *05* - 2024** | Taller  Índices 
-***29* - *05* - 2024** | I2
-***19* - *06* - 2024** | Taller MongoDB 
-***04* - *07* - 2024** | Examen
+***1* - ** - 2024** | Taller Modelo E/R 
+***1* - ** - 2024** | I1
+***1* - ** - 2024** | Taller Formas Normales 
+***1* - ** - 2024** | Taller  Índices 
+***1* - ** - 2024** | I2
+***1* - ** - 2024** | Taller MongoDB 
+***1* - ** - 2024** | Examen
 
 
 ### Proyecto
 
 Fecha                  | Evaluación
 -----------------------|------------
-***27* - *03* - 2024** | Enunciado P1
-***14* - *04* - 2024** | Entrega P1
-***26* - *04* - 2024** | Enunciado P2
-***19* - *05* - 2024** | Entrega P2
-***31* - *05* - 2024** | Enunciado P3
-***23* - *06* - 2024** | Entrega P3
+***1* - ** - 2024** | Enunciado P1
+***1* - ** - 2024** | Entrega P1
+***1* - ** - 2024** | Enunciado P2
+***1* - ** - 2024** | Entrega P2
+***1* - ** - 2024** | Enunciado P3
+***1* - ** - 2024** | Entrega P3
 
 
 ---
@@ -203,7 +175,7 @@ En caso de no aprobar, la nota final del curso se calculará como mín{ NF, 3,9 
 
 ## Foro
 
-La página de [_Issues_](https://github.com/IIC2413/Syllabus-2024-1/issues) se utilizará como foro para preguntas. Notar que las etiquetas ya se encuentran definidas. **Este es el único canal oficial para formular preguntas**.
+La página de [_Issues_](https://github.com/IIC2413/Syllabus-2024-2/issues) se utilizará como foro para preguntas. Notar que las etiquetas ya se encuentran definidas. **Este es el único canal oficial para formular preguntas**.
 
 Tanto al publicar como comentar, debes atenerte a las **normas del curso**. Además, debes utilizar **[_Markdown_](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code)** cuando sea necesario. Por ejemplo, cuando se necesita mostrar código o mensajes de error.
 
