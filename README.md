@@ -12,11 +12,16 @@
   - [Contenidos](#contenidos)
     - [Bibliografía](#bibliografía)
   - [Calendario Evaluaciones](#calendario-evaluaciones)
-    - [Controles](#controles)
+    - [Evaluaciones](#evaluaciones)
     - [Proyecto](#proyecto)
-  - [Evaluaciones](#evaluaciones)
+  - [Evaluación](#evaluación)
+    - [Grupos](#grupos)
+    - [Penalización por atraso](#penalización-por-atraso)
+    - [Co-evaluación](#co-evaluación)
+    - [Aprobación del curso](#aprobación-del-curso)
   - [Foro](#foro)
   - [Política de integridad académica](#política-de-integridad-académica)
+  - [Compromiso del Código de Honor](#compromiso-del-código-de-honor)
 
 ---
 
@@ -60,29 +65,31 @@ Nombre           | Email
 
 Semana | Contenido clase						                            | Taller             | Ayudantía              | Evaluaciones 
 -------|--------------------------------------------------------|--------------------|------------------------|-----------------------
-#1     | Introducción y Modelo relacional                       |                    |                        |  
-#2     | Álgebra relacional 					                          | Álgebra relacional | Álgebra relacional     |  
-#3     | Modelo E/R I 			                                    | Modelo E/R I       | Postgresql y Ubuntu    | 
-#4     | Modelo E/R II 			                                    | Modelo E/R II      |                        | Proyecto enunciado E1 Modelo E/R (W)
-#5     | SQL I - SQL II                        	                |                    | Taller SQL             |
-#6     | Repaso I1        				                              |                    | Web y SQL              | I1 (W) y  Proyecto entrega E1 modelo E/R (D)
-#7     | Dependencias, Anomalías, Formas normales               |                    |	                      | 
-#8     | Lógica en la BD, Triggers, vistas, SP                  | Formas normales                   |                        | Proyecto enunciado E2 queries y transacciones (V)
+#1     | Introducción y Modelo relacional                       |  PHP                  |        Ubuntu + Resolución Dudas PE0                |  Proyecto enunciado E0 PHP (V)
+#2     | Álgebra relacional 					                          | Álgebra relacional |      |  
+#3     | Modelo E/R I 			                                    | Modelo E/R I       |      | Proyecto entrega E0 PHP (D)
+#4     | Modelo E/R II 			                                    | Modelo E/R II      |   Esquema + Modelo E/R                     |  Proyecto enunciado E1 Modelo E/R + Esquema (L)
+#5     | SQL I                        	                |    SQL I             | SQL + IC             |
+#6     | SQL II        				                              |    SQL II                |  Carga y Limpieza de Datos              | Proyecto entrega E1 Modelo E/R + Esquema (D)
 Receso |                                                        |                    |                        |
-#9     | Transacciones y recuperación ante fallas               | Logging            |                        | 
-#10    | Fundamentos de EEDD y S.O. - Almacenamientos e Indices |                    |                        | Proyecto entrega E2 queries y transacciones (D)
-#11    | Evaluación de consultas						                    | Índices            | Integración            | 
-#12    | Repaso I2						                                  |                    |                        | I2 (W) Proyecto enunciado E3 integración (V)
-#13    | ORM, Flask                                             |                    |                        |
-#14    | NoSql y MongoDB                                        |             |                        |
-#15    | Privacidad de la información			                      | MongoDB                   |                        | Proyecto entrega E3 integración (D) 
-#16    | Data Science						                                | Data Science       |                        | P3 (Entrega)  
-#17    | Libre								                                  |                    |                        | Examen (J)
+#7     | Dependencias, Anomalías, Formas normales, Llaves               |                    |	   Web + SQL                   |   Proyecto enunciado E2 Carga de datos + Queries (L)
+#8     | Lógica en la BD, Triggers, vistas, SP                  | Formas normales                   |                        | I1 (L)
+#9     | Transacciones y recuperación ante fallas               | Logging            |     Tx, SP, View, Trigger                   | Proyecto entrega E2 Carga de datos + Queries (D)
+#10    | Fundamentos de S.O. y Almacenamiento |                    |                        | 
+#11    | Fundamentos de EEDD e Índices						                    |             | Integración            | 
+#12    | Evaluación de consultas            |       Índices             |                        | Proyecto enunciado E3 Transacciones e integración (L)
+#13    | ORM, Information retreival/text search        Privacidad de la información          |                    |                        |
+#14    | NoSql y MongoDB                                        |     MongoDB        |                        | Proyecto entrega E3 Transacciones e integración (D)
+#15    |		Repaso I2	                      |                    |                        |  I2 (W)
+#16    | Data Science        | Data Science       |                |   
+#17    | Libre               |                    |                        | 
+#18    | Libre								                                  |                    |                        | Examen (J)
 
 ### Bibliografía 
-- Database Management Systems, 3rd edition, de Raghu Ramakrishnan y Johannes Gehrke.
-- Apuntes de clase, ayudantías y complementarios disponibles en https://github.com/IIC2413/Syllabus-2024-1
+- Apuntes de clases y ayudantías.
 - Recursos de Internet entregados en clase y ayudantía.
+- Material complementario disponible en https://github.com/IIC2413/Syllabus-2024-2
+- Database Management Systems, 3rd edition, de Raghu Ramakrishnan y Johannes Gehrke.
 
 ---
 
@@ -90,25 +97,25 @@ Receso |                                                        |               
 
 ### Evaluaciones
 
-Fecha                  | Evaluación
------------------------|------------
-***1* - ** - 2024** | I1
-***1* - ** - 2024** | I2
-***1* - ** - 2024** | Examen
+Fecha                  | Hora | Evaluación
+-----------------------| ------- | ------------
+**30 - 09 - 2024** |  17:30   |I1
+**20 - 11 - 2024** |  17:30   |I2
+**12 - 12 - 2024** |  13:30   |Examen
 
 
 ### Proyecto
 
 Fecha                  | Evaluación
 -----------------------|------------
-***1* - ** - 2024** | Enunciado P0
-***1* - ** - 2024** | Entrega P0
-***1* - ** - 2024** | Enunciado P1
-***1* - ** - 2024** | Entrega P1
-***1* - ** - 2024** | Enunciado P2
-***1* - ** - 2024** | Entrega P2
-***1* - ** - 2024** | Enunciado P3
-***1* - ** - 2024** | Entrega P3
+**09 - 08 - 2024** | Enunciado P0
+**25 - 08 - 2024** | Entrega P0
+**26 - 08 - 2024** | Enunciado P1
+**15 - 09 - 2024** | Entrega P1
+**23 - 09 - 2024** | Enunciado P2
+**13 - 10 - 2024** | Entrega P2
+**28 - 10 - 2024** | Enunciado P3
+**17 - 11 - 2024** | Entrega P3
 
 
 ---
@@ -117,7 +124,7 @@ Fecha                  | Evaluación
 
 ### Grupos
 
-El proyecto se realiza en grupos de 3 personas los que pueden formarse en forma voluntaria. Las personas que no hayan inscrito el grupo en la fecha solicitada, se les asignará un grupo.
+El proyecto se realiza en grupos de 3 personas los que pueden formarse en forma voluntaria hasta el día **Jueves 22 de Agosto**. Las personas que no hayan inscrito el grupo en la fecha solicitada, se les asignará un grupo.
 
 ### Penalización por atraso
 
@@ -146,17 +153,17 @@ Promedio co-evaluación | Efecto
 
 ### Aprobación del curso
 
-El promedio $\bar{C}$ de las evaluaciones teóricas (Talleres, I1, I2, Examen) se calcula según
+El promedio $\bar{C}$ de las evaluaciones de cátedra (I1, I2, Examen) se calcula según
 
-$\bar{C} = \frac{I1 + I2 + \bar{T} + 2 \cdot Examen}{5}$
+$\bar{C} = \frac{I1 + I2 + 3 \cdot Examen}{5}$
 
-Mientras que el promedio $\bar{P_m}$ del Proyecto (E1, E2, E3) se calcula según
+Mientras que el promedio $\bar{P_m}$ del Proyecto (E0, E1, E2, E3) se calcula según
 
-$\bar{P_m} = ( 0.2 \cdot E1 + 0.4 \cdot E2 + 0.4 \cdot E3) \cdot co−evaluación$
+$\bar{P_m} = ( 0.1 \cdot E0 + 0.2 \cdot E1 + 0.4 \cdot E2 + 0.3 \cdot E3) \cdot co−evaluación$
 
 La nota de presentación al examen (NP) se calculará como:
 
-$NP = \frac{0.4 \cdot P + 0.3 \cdot \frac{I1 + I2 + \bar{T}}{3}}{0.7}$
+$NP = ( 0.5 \cdot \bar{P_m} + 0.5 \cdot \frac{I1 + I2}{2} )$
 
 La nota final (NF) se calcula como
 
@@ -164,7 +171,7 @@ $NF = 0.7 \cdot NP + 0.3 \cdot Examen$
 
 El curso se aprueba si, y solo si, todas las siguiente condiciones se cumplen:
 
-- Promedio de las evaluaciones teóiricas es mayor o igual a 3.95 ($\bar{T}$ ≥ 3,95)
+- Promedio de las evaluaciones de cátedra es mayor o igual a 3.95 ($\bar{C}$ ≥ 3,95)
 - Promedio del proyecto incluyendo co-evaluación es mayor o igual a 3.95 ($\bar{P_m}$ ≥ 3,95)
 - Nota final mayor o igual a 3.95 (NF ≥ 3,95).
 
