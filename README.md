@@ -47,9 +47,23 @@ Martin Andrighetti  | Administrador de Servidor            | [martin.andrighetti
   <!-- a   | Bienestar | [] -->
 
 #### Ayudantes
-Nombre           | Email
----------------- | ----------------
-  | 
+Nombre           | Rol | Email
+---------------- | ------------ | ----------------
+Benito Palacios  | Cátedra | benitopalaciosm@uc.cl
+Ignacia De Goyeneche | Cátedra | mdegoyenechet@uc.cl
+Nicole Larenas | Cátedra | nlarenasb@uc.cl
+Sofía Larraín | Cátedra  | sofialarrainv@uc.cl
+Sofía Retamales | Cátedra | sretamales@uc.cl
+Gaspar Benavente | Proyecto | gaspar.benavente@uc.cl
+Gustavo Morán | Proyecto | gustavo.morn@uc.cl
+Luc Olhabe | Proyecto | luc.olhabe@uc.cl
+Mateo De La Cuadra | Proyecto | mateodlcc@uc.cl
+Nicolás Olate | Proyecto | nicolas.olate@uc.cl
+Noam Tanaka | Proyecto | noam.vieira@uc.cl
+Tomás Ketterer | Proyecto | tketterer@uc.cl
+Tomás Tapia | Proyecto | tomastapia@uc.cl
+Waldo Seguel | Proyecto | waldo.seguel@uc.cl
+
 
 [eb@uc.cl]: mailto:eb@uc.cl
 [cal@uc.cl]: mailto:@uc.cl
