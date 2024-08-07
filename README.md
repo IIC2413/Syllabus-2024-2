@@ -44,7 +44,8 @@ Lucas Fernández  | Coordinador General            | [lucas.fernndez@uc.cl]
 Vicente San Martín  | SubCoordinador Cátedra             | [vjsm@uc.cl]
 Martina Molina  | SubCoordinadora Proyecto            | [martina.molina@uc.cl]
 Martin Andrighetti  | Administrador de Servidor            | [martin.andrighetti@uc.cl]
-  <!-- a   | Bienestar | [] -->
+Catalina Court  | Bienestar Sección 1 | [catalina.court@uc.cl]
+Claudia González | Bienestar Sección 2 | [cagonzalez24@uc.cl]
 
 #### Ayudantes
 Nombre           | Rol | Email
@@ -72,6 +73,9 @@ Waldo Seguel | Proyecto | waldo.seguel@uc.cl
 [martina.molina@uc.cl]:mailto:martina.molina@uc.cl
 [vjsm@uc.cl]:mailto:vjsm@uc.cl
 [martin.andrighetti@uc.cl]:mailto:martin.andrighetti@uc.cl
+
+[catalina.court@uc.cl]:mailto:catalina.court@uc.cl
+[cagonzalez24@uc.cl]:mailto:cagonzalez24@uc.cl
 
 ---
 
