@@ -106,8 +106,8 @@ Receso |                                                        |               
 ### Bibliografía 
 - Apuntes de clases y ayudantías.
 - Recursos de Internet entregados en clase y ayudantía.
-- Material complementario disponible en https://github.com/IIC2413/Syllabus-2024-2
-- Database Management Systems, 3rd edition, de Raghu Ramakrishnan y Johannes Gehrke.
+- Material complementario disponible en [https://github.com/IIC2413/Syllabus-2024-2](https://github.com/IIC2413/Syllabus-2024-2).
+- Database Management Systems, 3rd edition, de Raghu Ramakrishnan y Johannes Gehrke, disponible en [link](https://bmdigitales-bibliotecas-uc-cl.pucdechile.idm.oclc.org/html5/DATABASE%20MANAGEMENT%20SYSTEMS/).
 
 ---
 
