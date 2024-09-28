@@ -1,0 +1,5 @@
+email,password,role
+test1@lamejor.com,test1234,user
+test2@lamejor.com,test1234,user
+test3@lamejor.com,test1234,user
+admin@lamejor.com,admin,admin
