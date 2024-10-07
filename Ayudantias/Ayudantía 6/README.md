@@ -1,9 +1,5 @@
 # Ayudantía Web + SQL
 
-## Video Ayudantía
-
-[https://youtu.be/aAPgyJAbA0o](https://youtu.be/aAPgyJAbA0o)
-
 ## Conexión con base de datos localmente
 
 1. ### Instalación del servidor local de PHP
@@ -75,30 +71,14 @@ CREATE DATABASE grupoXX;
 \c grupoXX
 ```
 
-### 7. Crear tablas en la base de datos
+### 7. Crear tablas en la base de datos y poblarlas
 
-Una vez conectado a la base de datos, puedes crear las tablas necesarias para tu proyecto. Aquí tienes un ejemplo de una tabla `spotify` usado en la ayudantía:
+Una vez conectado a la base de datos, puedes crear las tablas necesarias para tu proyecto y poblarlas. Para realizar este paso debes ingresar a la carpeta `/cargador` y correr el archivo `cargador.php`:
 
-```sql
-CREATE TABLE spotify (
-    track_name VARCHAR(255),
-    artist_name VARCHAR(255),
-    released_year INT,
-    streams BIGINT,
-    danceability_percent INT
-);
+```bash
+php cargador.php
 ```
 
-### 8. Poblar la tabla desde un archivo CSV
-
-Si tienes un archivo CSV con los datos, puedes poblar la tabla usando el comando `\COPY`:
-
-```sql
-\COPY spotify(track_name, artist_name, released_year, streams, danceability_percent) 
-FROM 'ruta_absoluta/archivo.csv' 
-DELIMITER ',' 
-CSV HEADER;
-```
 ### 9. Iniciar el servidor PHP localmente
 
 Una vez que tengas tu código PHP listo, puedes iniciar un servidor local de PHP con el siguiente comando en el directorio donde se encuentra tu archivo `index.php`. Este comando es el mismo tanto para **Ubuntu/Debian** como para **macOS**:
