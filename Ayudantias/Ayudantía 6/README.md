@@ -1,5 +1,7 @@
 # Ayudantía Web + SQL
 
+[VideoDeApoyo](https://youtu.be/E3Lp0jC2j0c)
+
 ## Conexión con base de datos localmente
 
 1. ### Instalación del servidor local de PHP
